@@ -1,5 +1,5 @@
 
-| Tytuł      | Notatnik w MrBuggy - Limit znaków |
+| Tytuł      | Sklep internetowy w MrBuggy |
 | ----------- | ----------- |
 | Środowisko  | Android 13 Tiramisu |
 | Priorytet   | Wysoki |
@@ -12,7 +12,7 @@
 | Rezultat otrzymany  | Można dodać do koszyka ilość dowolnego artykułu ponad jego rzeczywistą ilość na stanie.  |
 | Rezultat oczekiwany | Nie można dodać do koszyka ilości artykułu ponad jego rzeczywistą ilość na stanie. |
 
-| Title      | Notepad in MrBuggy - Character limit |
+| Title      | Onilne store in MrBuggy |
 | -----------     | ----------- |
 | Environment     | Android 13 Tiramisu |
 | Priority        | High |
