@@ -1,9 +1,1 @@
-- "Introduction to Software Testing" by Paul Ammann and Jeff Offutt
-- "Agile Testing: A Practical Guide for Testers and Agile Teams" by Lisa Crispin and Janet Gregory
-- "Software Testing: A Guide to the TMap Approach" by Martin Pol and Ruud Teunissen
-- "Effective Software Testing: 50 Specific Ways to Improve Your Testing Process" by Elfriede Dustin
-- "Testing Computer Software" by Cem Kaner, Jack Falk, and Hung Quoc Nguyen
-- "Exploratory Software Testing: Tips, Tricks, Tours, and Techniques to Guide Test Design" by James A. Whittaker, Jeff Carrell, and Jonathan Kohl
-- "Testing Object-Oriented Systems: Models, Patterns, and Tools" by Robert Binder
-- "Quality Web Systems: Performance, Security, and Usability" by Andreas Grabner, Thomas Grabner, and Christian Reichl
-- "Continuous Testing: With DevOps, agility, and artificial intelligence" by Alan Richardson and Bradley Stults
+
