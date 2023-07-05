@@ -1,4 +1,4 @@
-| Test Case ID | Test Case Description | | | | |
+| Test Case ID | Test Case Description |
 | --- | --- | --- | --- | --- | --- |
 | TC-001 | Search for One-Way Connection | | | | |
 | | | | | | |
