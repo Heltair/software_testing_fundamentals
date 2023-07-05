@@ -1,4 +1,5 @@
 | Step         | Description            | Expected Result | Actual Result | Pass/Fail | Priority |
+|--------------|------------------------|-----------------|---------------|-----------|----------|
 | 1.           | Enter valid "From" city or station | Entered data should be accepted without an issue |     |     | High |
 | 2.           | Enter valid "To" city or station | Entered data should be accepted without an issue |     |     | High |
 | 3.           | Choose a valid date for the ticket | A mini calendar should pop-up, allowing to choose the desired date |     |     | High |
