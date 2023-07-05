@@ -2,7 +2,7 @@
 | --- | --- |
 | | |
 | Step | Description | Expected Result | Actual Result | Pass/Fail | Priority |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1. | | | | | |
 | 2. | | | | | |
 | 3. | | | | | |
